@@ -147,9 +147,9 @@
 		{"predicate": {"custom_model_data": 140}, "model": "modelengine:winged_lemur/right_calve"},
 		{"predicate": {"custom_model_data": 141}, "model": "modelengine:winged_lemur/right_thigh"},
 		{"predicate": {"custom_model_data": 142}, "model": "modelengine:winged_lemur/pelvis"},
-		{"model": "block/boards1", "predicate": {"custom_model_data": 143}},
-		{"model": "block/boards2", "predicate": {"custom_model_data": 144}},
-		{"model": "block/boards3", "predicate": {"custom_model_data": 145}}
+		{"model": "minecraft:block/boards1", "predicate": {"custom_model_data": 143}},
+		{"model": "minecraft:block/boards2", "predicate": {"custom_model_data": 144}},
+		{"model": "minecraft:block/boards3", "predicate": {"custom_model_data": 145}}
 	],
 	"data": 142
 }
