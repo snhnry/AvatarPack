@@ -1,31 +1,36 @@
 {
   "variants": {
-    "facing=east,lit=false": {
-      "model": "minecraft:block/custom/produce_stand",
-      "y": 90
-    },
+    "facing=east,lit=false": [
+      { "model": "minecraft:block/custom/produce_stand_apple", "y": 90, "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_melon", "y": 90, "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_assorted", "y": 90, "weight": 1 }
+    ],
     "facing=east,lit=true": {
       "model": "minecraft:block/blast_furnace_on",
       "y": 90
     },
-    "facing=north,lit=false": {
-      "model": "minecraft:block/custom/produce_stand"
-    },
+    "facing=north,lit=false": [
+      { "model": "minecraft:block/custom/produce_stand_apple", "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_melon", "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_assorted", "weight": 1 }
+    ],
     "facing=north,lit=true": {
       "model": "minecraft:block/blast_furnace_on"
     },
-    "facing=south,lit=false": {
-      "model": "minecraft:block/custom/produce_stand",
-      "y": 180
-    },
+    "facing=south,lit=false": [
+      { "model": "minecraft:block/custom/produce_stand_apple", "y": 180, "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_melon", "y": 180, "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_assorted", "y": 180, "weight": 1 }
+    ],
     "facing=south,lit=true": {
       "model": "minecraft:block/blast_furnace_on",
       "y": 180
     },
-    "facing=west,lit=false": {
-      "model": "minecraft:block/custom/produce_stand",
-      "y": 270
-    },
+    "facing=west,lit=false": [
+      { "model": "minecraft:block/custom/produce_stand_apple", "y": 270, "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_melon", "y": 270, "weight": 1 },
+      { "model": "minecraft:block/custom/produce_stand_assorted", "y": 270, "weight": 1 }
+    ],
     "facing=west,lit=true": {
       "model": "minecraft:block/blast_furnace_on",
       "y": 270
