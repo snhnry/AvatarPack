@@ -1,1 +1,7 @@
-{"textures":{"particle":"tlaminecraft:custom/benderworld/suitcase2"}}
+{
+	"credit": "Made with Blockbench",
+	"parent": "tlaminecraft:benderworld/suitcase1",
+	"textures": {
+		"particle": "tlaminecraft:custom/benderworld/suitcase2"
+	}
+}
