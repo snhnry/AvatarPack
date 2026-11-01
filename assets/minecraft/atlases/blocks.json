@@ -2,23 +2,8 @@
     "sources": [
         {
             "type": "directory",
-            "source": "block",
-            "prefix": "block/"
-        },
-        {
-            "type": "directory",
-            "source": "entity",
-            "prefix": "entity/"
-        },
-        {
-            "type": "directory",
             "source": "font",
             "prefix": "font/"
-        },
-        {
-            "type": "directory",
-            "source": "item",
-            "prefix": "item/"
         },
         {
             "type": "directory",
@@ -34,11 +19,6 @@
             "type": "directory",
             "source": "particle",
             "prefix": "particle/"
-        },
-        {
-            "type": "directory",
-            "source": "items",
-            "prefix": "items/"
         },
         {
             "type": "directory",
