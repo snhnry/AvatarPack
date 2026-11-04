@@ -2,33 +2,13 @@
     "sources": [
         {
             "type": "directory",
-            "source": "font",
-            "prefix": "font/"
-        },
-        {
-            "type": "directory",
-            "source": "models",
-            "prefix": "models/"
-        },
-        {
-            "type": "directory",
-            "source": "painting",
-            "prefix": "painting/"
-        },
-        {
-            "type": "directory",
-            "source": "particle",
-            "prefix": "particle/"
-        },
-        {
-            "type": "directory",
             "source": "special",
             "prefix": "special/"
         },
         {
             "type": "directory",
-            "source": "custom",
-            "prefix": "custom/"
+            "source": "custom_npcs",
+            "prefix": "custom_npcs/"
         },
         {
             "type": "directory",
